@@ -1,0 +1,6 @@
+[submodule "examples/inner"]
+	path = examples/inner
+	url = https://RonaldRizz@github.com/RonaldRizz/Quick-fix
+[submodule "examples/inner directory name"]
+	path = examples/inner directory name
+	url = https://RonaldRizz@github.com/RonaldRizz/Quick-fix
