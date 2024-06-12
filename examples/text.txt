@@ -1,0 +1,5 @@
+curl -v \
+	-X GET \
+	-H "User-Agent: HTTPBot-iOS/2024.0.1" \
+	-H "Authorization: Basic Og==" \
+	"https://mail.aol.com/patinpa@aol.com?variables=&operationName=&query="
